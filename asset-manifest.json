@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/woman-and-bear-r1-C-PP/static/css/main.42aed7eb.css",
-    "main.js": "/woman-and-bear-r1-C-PP/static/js/main.7e9d0afa.js",
+    "main.js": "/woman-and-bear-r1-C-PP/static/js/main.60e8647f.js",
     "static/js/787.0f14f37b.chunk.js": "/woman-and-bear-r1-C-PP/static/js/787.0f14f37b.chunk.js",
     "static/media/page08wf.png": "/woman-and-bear-r1-C-PP/static/media/page08wf.c39f734907381a096b5c.png",
     "static/media/page02wf.png": "/woman-and-bear-r1-C-PP/static/media/page02wf.a7f3ffd4f07a625f3056.png",
@@ -18,11 +18,11 @@
     "static/media/Avatar.png": "/woman-and-bear-r1-C-PP/static/media/Avatar.01842f6936c3117820fd.png",
     "index.html": "/woman-and-bear-r1-C-PP/index.html",
     "main.42aed7eb.css.map": "/woman-and-bear-r1-C-PP/static/css/main.42aed7eb.css.map",
-    "main.7e9d0afa.js.map": "/woman-and-bear-r1-C-PP/static/js/main.7e9d0afa.js.map",
+    "main.60e8647f.js.map": "/woman-and-bear-r1-C-PP/static/js/main.60e8647f.js.map",
     "787.0f14f37b.chunk.js.map": "/woman-and-bear-r1-C-PP/static/js/787.0f14f37b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42aed7eb.css",
-    "static/js/main.7e9d0afa.js"
+    "static/js/main.60e8647f.js"
   ]
 }
